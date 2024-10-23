@@ -1,0 +1,22 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+venv/
+.env/
+env/
+.venv/
+
+# Ignore Python configuration files
+*.ini
+*.cfg
+*.log
+
+# Ignore other unnecessary files
+*.DS_Store
+.idea/
+.vscode/
+.pytest_cache/
+.mypy_cache/
